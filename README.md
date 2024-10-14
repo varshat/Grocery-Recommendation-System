@@ -67,15 +67,3 @@ Item-Based Collaborative Filtering: This method finds similar items based on use
 The system uses the Surprise Library to implement the collaborative filtering models (KNNBasic, KNNWithMeans, or SVD) and generate predictions.
 
 
-
-Contributing
-Contributions are welcome! If you'd like to improve the project, please follow these steps:
-
-Fork the repository.
-Create a new feature branch: git checkout -b feature/your-feature-name.
-Commit your changes: git commit -m 'Add some feature'.
-Push to the branch: git push origin feature/your-feature-name.
-Submit a pull request.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
